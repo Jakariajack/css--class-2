@@ -1,0 +1,40 @@
+*{ padding: 10px;
+    
+
+}
+
+.card{
+    background-color: rgb(250, 247, 247);
+    width:250px;
+    box-shadow: 15px 10px 20px #ccc ;
+    display: cover;
+}
+.top_price{
+
+    background-color: aqua;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.delet{
+    background-color: aquamarine;
+    text-decoration: line-through;
+}
+.j_price{
+    background-color: blue;
+}
+.f_price{
+    background-color: chocolate;
+}
+Button{
+    background-color:yellow;
+}
+.k{
+    background-color: darkmagenta;
+}
+.y{
+    background-color: indigo;
+}
+.h{
+    background-color: crimson;
+}
